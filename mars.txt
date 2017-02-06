@@ -1,2 +1,3 @@
 Mars is about the same size as Earth.
 There are already two robots on Mars.
+Unlike Jupiter Mars has a solid surface.
